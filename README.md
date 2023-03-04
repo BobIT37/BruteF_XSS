@@ -1,4 +1,4 @@
-# web-app-pentesting
+# BruteF XSS
 Web Application Penetration Testing tools and Materials for Ethical Hackers.
 
 Disclaimer: I am not responsible for any damage done using these tool. This tool should only be used for educational purposes and for penetration testing by those who have the knowlege of Rules of Pen-Testing.
@@ -31,7 +31,7 @@ It is a powerful and fast Cross-Site Scripting Brutforcer which is used for brut
 
 Enter the following command in the terminal to download it
 ```
-git clone https://github.com/kaiiyer/web-app-pentesting
+https://github.com/BobIT37/BruteF_XSS.git
 ```
 After downloading the program, enter the following command to navigate to the Recon Dog directory and listing the contents
 ```
